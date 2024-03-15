@@ -1,5 +1,14 @@
+## Todo List Application
 
-Todo List Application
+## Available Scripts
+HTML / CSS / JS / REACT JS
+
+npm start
+Open http://localhost:3000 to view it in your browser.
+
+https://github.com/Dido5678/To-do-List/blob/master/cover.png
+![Cover foto](cover.png)
+
 
 This Todo List Application is a simple yet powerful tool to help you manage your tasks efficiently. With intuitive features like task editing, marking tasks as done, task deletion, and localStorage integration, staying organized has never been easier. Plus, with delightful animations, managing your tasks becomes a visually engaging experience.
 
